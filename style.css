@@ -1,0 +1,20 @@
+img{
+height: 200px;
+width: 200px;
+}
+body{
+
+background-color:yellowgreen;
+}
+hr{
+height: 5px;
+
+}
+
+p{
+    white-space:pre-line;
+}
+
+.gee{
+color: red;
+}
